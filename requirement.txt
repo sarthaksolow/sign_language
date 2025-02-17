@@ -1,0 +1,26 @@
+# General dependencies
+numpy
+matplotlib
+pandas
+opencv-python
+opencv-contrib-python
+
+# Deep learning frameworks
+tensorflow
+torch
+torchvision
+torchaudio
+
+# Object detection dependencies
+ultralytics  # For YOLOv5
+pydantic  # YOLOv5 dependency
+onnxruntime  # For ONNX model inference (if needed)
+
+# Hand tracking and pose estimation
+mediapipe  # For hand tracking in sign language recognition
+
+# Data visualization
+seaborn
+
+# Additional utilities
+scipy
